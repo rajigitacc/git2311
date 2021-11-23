@@ -13,8 +13,13 @@ public static void main(String[] args) {
     System.out.println("the emp name:" +empName );	
     
     System.out.println("Enter the Employee email:");
+<<<<<<< HEAD
+    System.out.println("Enter the Employee name1:");
+    System.out.println("Enter the Employee name2:");
+=======
     System.out.println("Enter the Employee email address:");
 
+>>>>>>> 12c0b6bc3b95061730bf43dcc23546a863028e18
     String empEmail=sc.nextLine();
     System.out.println("the emp email:" +empEmail);
 	
