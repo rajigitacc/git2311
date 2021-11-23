@@ -13,8 +13,8 @@ public static void main(String[] args) {
     System.out.println("the emp name:" +empName );	
     
     System.out.println("Enter the Employee email:");
-    System.out.println("Enter the Employee name:");
-
+    System.out.println("Enter the Employee name1:");
+    System.out.println("Enter the Employee name2:");
     String empEmail=sc.nextLine();
     System.out.println("the emp email:" +empEmail);
 	
